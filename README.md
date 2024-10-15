@@ -20,7 +20,7 @@ How To Use:
  4. Enter two numbers and choose an operator from the available options.
       result = my_calculator_app(10, 5, '+')  # Output: 15
 
-Future Improvements
+Future Improvements:
    Add support for more complex operations (e.g., trigonometry, logarithms).
    Implement a graphical user interface (GUI).
 
