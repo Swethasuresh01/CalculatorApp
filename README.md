@@ -27,7 +27,6 @@ Future Improvements:
 Contributing
 Feel free to fork this repository and submit pull requests. Any contributions are welcome!
 
-License
 This project is licensed under the MIT License.
 
 
